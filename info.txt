@@ -1,2 +1,3 @@
 Hello Good Morning to all, This is Vaishnavi
 Welcome to DevOps training class.
+My hobbies are singing,dancing.
